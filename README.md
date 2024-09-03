@@ -2,7 +2,7 @@
 
 ## Overview
 
-FRIDAY is an advanced voice assistant that uses *OpenAI's API* to provide intelligent, context-aware responses. Built using Python, it offers a range of functionalities like voice command recognition, web search, email automation, and system control. Whether you're automating tasks or seeking information, FRIDAY is designed to adapt and execute commands with high precision and speed.
+FRIDAY is an advanced voice assistant that uses *OpenAI's API* to provide intelligent, context-aware responses. Built using Python, it offers a range of functionalities like voice command recognition, web search, email automation, and system control. Whether you're automating tasks or seeking information, FRIDAY is designed to adapt and execute commands with high precision and speed. 
 
 ## Features
 
